@@ -1,9 +1,9 @@
-# Shopping Cart Application in REACTJS
+## Shopping Cart Application in REACTJS
 
-## still in progress
+A simple shopping cart in ReactJS, JSX, Bootstrap, Jquery 
 
-## A simple shopping cart in ReactJS, JSX, Bootstrap, Jquery 
+Still in progress
 
-## Command to run the application : "npm start"
+Command to run the application : "npm start"
 
-## Command to build the application : "npm run build"
+Command to build the application : "npm run build"
