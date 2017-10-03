@@ -13,7 +13,7 @@ class App extends Component {
             </header>
             <Main />
             <footer>
-                <p>All Rights Reserved. &copy; 2017</p>
+                <p className="text-center">All Rights Reserved. &copy; 2017</p>
             </footer>
       </div>
     );
