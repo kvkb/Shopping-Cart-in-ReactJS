@@ -11,7 +11,7 @@ class App extends Component {
             <header className="">
                 <div className="row">
                     <div className="col-md-8">
-                        <h1 className="">Shopping Cart</h1>
+                        <h1 className="">Sample Cart</h1>
                     </div>
                     <div className="col-md-4 text-right">
                         <ul className="list-inline">
