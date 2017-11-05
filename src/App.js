@@ -9,7 +9,20 @@ class App extends Component {
     return (
         <div className="container">
             <header className="">
-                <h1 className="">Shopping Cart</h1>
+                <div className="row">
+                    <div className="col-md-8">
+                        <h1 className="">Shopping Cart</h1>
+                    </div>
+                    <div className="col-md-4 text-right">
+                        <ul className="list-inline">
+                            <li>Hi John</li>
+                            <li className="btn btn-success">
+                                <span>0</span>
+                                <i className="fa fa-shopping-cart" aria-hidden="true"></i>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </header>
             <Main />
             <footer>
