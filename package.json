@@ -2,7 +2,7 @@
   "name": "shoppingcart",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bharadwaz.in/reactjs",
+  "homepage": "https://kvkb.github.io/Shopping-Cart-in-ReactJS/",
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
@@ -10,7 +10,6 @@
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.14"
   },
-  "git repository":""
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
